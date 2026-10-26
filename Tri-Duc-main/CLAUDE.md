@@ -24,7 +24,7 @@ admin, quản lý (manager), kỹ thuật viên (technician). Kiểm quyền 2 l
 - Responsive desktop + mobile (mobile: bottom nav, nút Quét QR ở giữa), PWA, dữ liệu mẫu, README tiếng Việt.
 
 ## Quy tắc làm việc
-- 6 phần, xong mỗi phần: chạy `npm run build`, cập nhật Tiến độ, dừng chờ người dùng gõ "tiếp".
+- 6 phần, xong mỗi phần: chạy `npm run build`, cập nhật Tiến độ, commit + push `main` (Vercel tự deploy triduc-duat1.vercel.app, root dir `Tri-Duc-main`), dừng chờ người dùng gõ "tiếp".
 - Chỉ đọc file liên quan phần đang làm; sửa từng đoạn; không in lại code; không thêm tính năng ngoài yêu cầu.
 - Báo cáo mỗi phần ≤ 5 dòng: đã làm gì, file nào, người dùng cần làm gì.
 
